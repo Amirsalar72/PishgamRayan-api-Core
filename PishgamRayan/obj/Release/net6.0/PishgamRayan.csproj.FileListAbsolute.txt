@@ -1,0 +1,12 @@
+E:\PishgamRayan\PishgamRayan\PishgamRayan\bin\Release\net6.0\PishgamRayan.deps.json
+E:\PishgamRayan\PishgamRayan\PishgamRayan\bin\Release\net6.0\PishgamRayan.dll
+E:\PishgamRayan\PishgamRayan\PishgamRayan\bin\Release\net6.0\PishgamRayan.pdb
+E:\PishgamRayan\PishgamRayan\PishgamRayan\obj\Release\net6.0\PishgamRayan.csproj.AssemblyReference.cache
+E:\PishgamRayan\PishgamRayan\PishgamRayan\obj\Release\net6.0\PishgamRayan.GeneratedMSBuildEditorConfig.editorconfig
+E:\PishgamRayan\PishgamRayan\PishgamRayan\obj\Release\net6.0\PishgamRayan.AssemblyInfoInputs.cache
+E:\PishgamRayan\PishgamRayan\PishgamRayan\obj\Release\net6.0\PishgamRayan.AssemblyInfo.cs
+E:\PishgamRayan\PishgamRayan\PishgamRayan\obj\Release\net6.0\PishgamRayan.csproj.CoreCompileInputs.cache
+E:\PishgamRayan\PishgamRayan\PishgamRayan\obj\Release\net6.0\PishgamRayan.dll
+E:\PishgamRayan\PishgamRayan\PishgamRayan\obj\Release\net6.0\refint\PishgamRayan.dll
+E:\PishgamRayan\PishgamRayan\PishgamRayan\obj\Release\net6.0\PishgamRayan.pdb
+E:\PishgamRayan\PishgamRayan\PishgamRayan\obj\Release\net6.0\ref\PishgamRayan.dll

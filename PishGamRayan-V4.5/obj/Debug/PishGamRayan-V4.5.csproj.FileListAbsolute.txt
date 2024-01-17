@@ -1,0 +1,2 @@
+E:\PishgamRayan\PishgamRayan\PishGamRayan-V4.5\obj\Debug\PishGamRayan-V4.5.csproj.AssemblyReference.cache
+E:\PishgamRayan\PishgamRayan\PishGamRayan-V4.5\obj\Debug\PishGamRayan-V4.5.csproj.CoreCompileInputs.cache
